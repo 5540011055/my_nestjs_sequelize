@@ -2,6 +2,7 @@
   "compilerOptions": {
     "module": "commonjs",
     "declaration": true,
+<<<<<<< HEAD
     "noImplicitAny": false,
     "removeComments": true,
     "noLib": false,
@@ -16,4 +17,17 @@
     "esModuleInterop": true
   },
   "exclude": ["node_modules"]
+=======
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es2017",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "skipLibCheck": true
+  }
+>>>>>>> 30ab1a157395971c39daf4fb5915b9a6e904ffee
 }

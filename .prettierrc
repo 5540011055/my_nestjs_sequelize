@@ -1,6 +1,11 @@
 {
   "singleQuote": true,
+<<<<<<< HEAD
   "trailingComma": "all",
   "tabWidth": 4,
   "semi": true
 }
+=======
+  "trailingComma": "all"
+}
+>>>>>>> 30ab1a157395971c39daf4fb5915b9a6e904ffee
